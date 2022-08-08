@@ -1,0 +1,15 @@
+/Users/drosanda/Projects/CobaDotNet/obj/Debug/net6.0/CobaDotNet.csproj.AssemblyReference.cache
+/Users/drosanda/Projects/CobaDotNet/obj/Debug/net6.0/CobaDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drosanda/Projects/CobaDotNet/obj/Debug/net6.0/CobaDotNet.AssemblyInfoInputs.cache
+/Users/drosanda/Projects/CobaDotNet/obj/Debug/net6.0/CobaDotNet.AssemblyInfo.cs
+/Users/drosanda/Projects/CobaDotNet/obj/Debug/net6.0/CobaDotNet.csproj.CoreCompileInputs.cache
+/Users/drosanda/Projects/CobaDotNet/bin/Debug/net6.0/CobaDotNet
+/Users/drosanda/Projects/CobaDotNet/bin/Debug/net6.0/CobaDotNet.deps.json
+/Users/drosanda/Projects/CobaDotNet/bin/Debug/net6.0/CobaDotNet.runtimeconfig.json
+/Users/drosanda/Projects/CobaDotNet/bin/Debug/net6.0/CobaDotNet.dll
+/Users/drosanda/Projects/CobaDotNet/bin/Debug/net6.0/CobaDotNet.pdb
+/Users/drosanda/Projects/CobaDotNet/obj/Debug/net6.0/CobaDotNet.dll
+/Users/drosanda/Projects/CobaDotNet/obj/Debug/net6.0/refint/CobaDotNet.dll
+/Users/drosanda/Projects/CobaDotNet/obj/Debug/net6.0/CobaDotNet.pdb
+/Users/drosanda/Projects/CobaDotNet/obj/Debug/net6.0/CobaDotNet.genruntimeconfig.cache
+/Users/drosanda/Projects/CobaDotNet/obj/Debug/net6.0/ref/CobaDotNet.dll
